@@ -12,10 +12,7 @@ I enjoy designing RESTful APIs, working with relational and NoSQL databases, and
 
 I have hands-on experience with Node.js, NestJS, and Express.js, and I'm always eager to improve my skills by learning and building practical projects.
 
-- 🎓 B.Sc. in Computer Science — Benha University
-- 📊 GPA: 3.6 / 4.0
-- 🏆 Graduation Project: CareerK — Grade A+
-- 💡 Interested in Backend Development and Software Engineering
+
 
 ---
 
@@ -44,30 +41,6 @@ I have hands-on experience with Node.js, NestJS, and Express.js, and I'm always 
 - Email Verification (OTP)
 - Mongoose
 
----
-
-### 🚀 Featured Projects
-
-**CareerK — AI-Powered Recruitment Platform**
-
-`NestJS` `PostgreSQL` `Prisma` `Redis` `BullMQ` `Docker` `JWT`
-
-- Graduation project awarded Grade A+.
-- Developed RESTful APIs for an AI-powered recruitment platform.
-- Implemented JWT authentication, refresh tokens, and role-based authorization.
-- Integrated Redis for OTP caching and BullMQ for asynchronous email processing.
-- Applied Repository Pattern, Dependency Injection, Validation Pipes, and Exception Filters.
-
-**E-Commerce Backend API**
-
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Swagger`
-
-- Developed RESTful APIs for an e-commerce application.
-- Implemented authentication and authorization using JWT and bcryptjs.
-- Built product and order management endpoints.
-- Documented APIs using Swagger.
-
----
 
 ### 📊 GitHub Statistics
 
