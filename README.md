@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**aya-MohamedAsfourr202/aya-MohamedAsfourr202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Aya 👋
 
-Here are some ideas to get you started:
+Computer Science Graduate | Backend Developer 🇪🇬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring how software works behind the scenes, designing APIs, working with databases, and building backend applications.
+
+I believe in learning by building, understanding the fundamentals, and continuously improving my problem-solving and software engineering skills.
+
+## 🛠️ Tech Stack
+
+### Languages
+![Languages](https://skillicons.dev/icons?i=js,ts)
+
+### Backend Development
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs)
+
+### Databases & ORM
+![Databases](https://skillicons.dev/icons?i=mongodb,postgres,prisma)
+
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aya-MohamedAsfourr202&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aya-MohamedAsfourr202&layout=compact&theme=tokyonight)
