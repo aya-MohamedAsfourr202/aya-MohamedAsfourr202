@@ -2,18 +2,6 @@
 
 <h3 align="center">Backend Developer | Computer Science Graduate</h3>
 
-### Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayamohamedasfour" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ayaaaaasfour@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
-  </a>
-</p>
-
 ---
 
 ### 👩‍💻 About Me
@@ -26,29 +14,29 @@ I'm continuously expanding my knowledge of backend engineering through hands-on 
 
 ---
 
-### Technical Skills
+### 🛠️ Technical Skills
 
 **Programming Languages**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts" />
 </p>
 
 **Backend Development**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 </p>
 
 **Databases & ORM**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
 </p>
 
 **Tools & Technologies**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
 </p>
 
@@ -67,6 +55,20 @@ I'm continuously expanding my knowledge of backend engineering through hands-on 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aya-MohamedAsfourr202&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-MohamedAsfourr202&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayamohamedasfour" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ayaaaaasfour@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
+  </a>
 </p>
 
 ---
