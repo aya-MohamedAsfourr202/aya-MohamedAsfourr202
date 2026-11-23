@@ -2,12 +2,15 @@
 
 <h3 align="center">Backend Developer | Computer Science Graduate</h3>
 
+### Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayamohamedasfour">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/ayamohamedasfour" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:ayaaaaasfour@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
   </a>
 </p>
 
@@ -23,7 +26,7 @@ I'm continuously expanding my knowledge of backend engineering through hands-on 
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 **Programming Languages**
 
