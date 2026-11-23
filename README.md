@@ -42,13 +42,6 @@ I'm continuously expanding my knowledge of backend engineering through hands-on 
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aya-MohamedAsfourr202&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-MohamedAsfourr202&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=E-Commerce" height="165" />
-</p>
----
 
 ### 🤝 Connect With Me
 
