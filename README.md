@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/profile.jpg" width="180" alt="Aya's profile picture" />
-</p>
+
 # Hi there, I'm Aya 👋
 
 Computer Science Graduate | Backend Developer 🇪🇬
