@@ -1,18 +1,25 @@
-# <h1 align="center">Aya Asfour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /></h1>
+ <h1 align="center">Hi, I'm Aya Asfour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" /></h1>
 
 <h3 align="center">Backend Developer | Computer Science Graduate</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayamohamedasfour">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:ayaaaaasfour@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm a Computer Science graduate from Benha University with a strong interest in backend development and software engineering.
+I'm a Computer Science graduate from Benha University with a passion for backend development and building reliable software solutions.
 
-I enjoy designing RESTful APIs, working with relational and NoSQL databases, and building secure, maintainable backend systems.
+My focus is on developing scalable RESTful APIs, designing efficient database structures, and implementing secure backend systems. I enjoy working with modern backend technologies and writing clean, maintainable code.
 
-I have hands-on experience with Node.js, NestJS, and Express.js, and I'm always eager to improve my skills by learning and building practical projects.
-
-
+I'm continuously expanding my knowledge of backend engineering through hands-on projects and exploring new technologies.
 
 ---
 
@@ -20,27 +27,37 @@ I have hands-on experience with Node.js, NestJS, and Express.js, and I'm always 
 
 **Programming Languages**
 
-![Languages](https://skillicons.dev/icons?i=cpp,c,java,py,js,ts)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts" />
+</p>
 
 **Backend Development**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
 
 **Databases & ORM**
 
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
+</p>
 
 **Tools & Technologies**
 
-![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,vscode)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
+</p>
 
-**Also familiar with:**
+**Additional Technologies**
+
 - BullMQ
+- Mongoose
 - JWT Authentication
 - Role-Based Authorization
 - Email Verification (OTP)
-- Mongoose
 
+---
 
 ### 📊 GitHub Statistics
 
@@ -51,13 +68,6 @@ I have hands-on experience with Node.js, NestJS, and Express.js, and I'm always 
 
 ---
 
-### 🤝 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayamohamedasfour">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:ayaaaaasfour@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <i>Always learning, building, and improving.</i>
 </p>
