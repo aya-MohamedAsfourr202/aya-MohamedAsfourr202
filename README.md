@@ -1,17 +1,6 @@
+# <h1 align="center">Aya Asfour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /></h1>
 
-<p align="center">
-  <img src="./assets/profile.jpg" width="160" alt="Aya Asfour" />
-</p>
-
-<h1 align="center">Hi, I'm Aya Asfour 👋</h1>
-
-<h3 align="center">
-  Backend Developer | Computer Science Graduate 🇪🇬
-</h3>
-
-<p align="center">
-  Passionate about backend engineering, system design, and building reliable applications.
-</p>
+<h3 align="center">Backend Developer | Computer Science Graduate</h3>
 
 ---
 
@@ -21,9 +10,7 @@ I'm a Computer Science graduate from Benha University with a strong interest in 
 
 I enjoy designing RESTful APIs, working with relational and NoSQL databases, and building secure, maintainable backend systems.
 
-I have hands-on experience with Node.js, NestJS, Express.js, and ASP.NET Core MVC, along with database technologies and backend tools.
-
-I'm always eager to learn, explore new technologies, and turn ideas into practical software solutions.
+I have hands-on experience with Node.js, NestJS, and Express.js, and I'm always eager to improve my skills by learning and building practical projects.
 
 - 🎓 B.Sc. in Computer Science — Benha University
 - 📊 GPA: 3.6 / 4.0
@@ -36,11 +23,11 @@ I'm always eager to learn, explore new technologies, and turn ideas into practic
 
 **Programming Languages**
 
-![Languages](https://skillicons.dev/icons?i=cs,cpp,c,java,python,js,ts)
+![Languages](https://skillicons.dev/icons?i=cpp,c,java,py,js,ts)
 
 **Backend Development**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs)
 
 **Databases & ORM**
 
@@ -48,16 +35,14 @@ I'm always eager to learn, explore new technologies, and turn ideas into practic
 
 **Tools & Technologies**
 
-![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,vscode,visualstudio)
+![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,vscode)
 
 **Also familiar with:**
-- SQL Server
-- Entity Framework Core
-- Mongoose
 - BullMQ
 - JWT Authentication
 - Role-Based Authorization
 - Email Verification (OTP)
+- Mongoose
 
 ---
 
@@ -81,14 +66,6 @@ I'm always eager to learn, explore new technologies, and turn ideas into practic
 - Implemented authentication and authorization using JWT and bcryptjs.
 - Built product and order management endpoints.
 - Documented APIs using Swagger.
-
-**E-Commerce Full-Stack Web Application**
-
-`ASP.NET Core MVC` `C#` `SQL Server`
-
-- Built an e-commerce web application with product catalog and shopping cart.
-- Implemented authentication, order management, and admin dashboard.
-- Applied role-based access control.
 
 ---
 
