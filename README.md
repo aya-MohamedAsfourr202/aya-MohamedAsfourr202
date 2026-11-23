@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm Aya Asfour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" /></h1>
+# <h1 align="center">Hi, I'm Aya Asfour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" /></h1>
 
 <h3 align="center">Backend Developer | Computer Science Graduate</h3>
 
@@ -18,27 +18,19 @@ I'm continuously expanding my knowledge of backend engineering through hands-on 
 
 **Programming Languages**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts" />
-</p>
+![Languages](https://skillicons.dev/icons?i=cpp,c,java,py,js,ts)
 
 **Backend Development**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-</p>
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express)
 
 **Databases & ORM**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
-</p>
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma)
 
 **Tools & Technologies**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
-</p>
+![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,vscode)
 
 **Additional Technologies**
 
